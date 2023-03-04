@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DishaayeinTechnology/static/css/main.051052d8.css",
-    "main.js": "/DishaayeinTechnology/static/js/main.2973bb3d.js",
+    "main.js": "/DishaayeinTechnology/static/js/main.422ce9d4.js",
     "static/js/787.ac035862.chunk.js": "/DishaayeinTechnology/static/js/787.ac035862.chunk.js",
     "index.html": "/DishaayeinTechnology/index.html",
     "main.051052d8.css.map": "/DishaayeinTechnology/static/css/main.051052d8.css.map",
-    "main.2973bb3d.js.map": "/DishaayeinTechnology/static/js/main.2973bb3d.js.map",
+    "main.422ce9d4.js.map": "/DishaayeinTechnology/static/js/main.422ce9d4.js.map",
     "787.ac035862.chunk.js.map": "/DishaayeinTechnology/static/js/787.ac035862.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.051052d8.css",
-    "static/js/main.2973bb3d.js"
+    "static/js/main.422ce9d4.js"
   ]
 }
