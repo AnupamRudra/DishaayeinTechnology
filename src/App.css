@@ -1,0 +1,226 @@
+.navbar-nav{
+  margin-left: auto;
+}
+.nav-item{
+  font-size: 18px;
+  margin-left: 10px;
+  font-weight: 550px;
+}
+.navbar-nav .nav-item .nav-link:hover{
+  color: #e90817;
+}
+.navbar-nav .nav-item .nav-link:active{
+  color: red;
+}
+.order-2{
+  align-items: center;
+  text-align: center;
+  background-color: #ffffff52;
+  height: auto;
+  padding: 10px 10px;
+}
+.hero .container{
+  padding: 130px 0px;
+}
+.transport .btn,
+.hero .btn,
+.content .btn{
+  background-color: #fa0707;
+    padding: 8px 20px;
+    margin-top: 15px;
+    border-radius: 4px;
+    color: #fff;
+}
+.transport .btn:hover,
+.hero .btn:hover,
+.content .btn:hover{
+  font-weight: bold;
+  margin-top: 13px;
+  background-color: transparent;
+  color: #bc0410;
+  border: 2px #bc0410 solid;
+}
+.navbar .btn{
+  font-weight: bold;
+  border: 2px #bc0410 solid;
+  text-align: center;
+  color: #bc0410;
+  background-color: transparent;
+}
+.navbar .btn:hover{
+  background-color: #bc0410;
+  color: #fff;
+}
+.works{
+  /* width: 100%; */
+  text-align: center;
+  margin-bottom: 70px;
+  padding-top: 100px;
+  font-weight: 800;
+}
+
+.featured-service{
+  background-color: #bfe1ed;
+  padding-bottom: 70px;
+}
+
+/* About.js */
+.about .blockCell{
+  display: flex;
+}
+
+.about{
+  margin-top: 100px;
+  padding-bottom: 70px;
+  background-color: #d5d0f3;
+}
+.about .gy-4 {
+  --bs-gutter-y: 7.5rem;
+}
+.about .containBox{
+  display: block;
+  text-align: end;
+}
+.about .containBox img{
+  max-height: 210px;
+}
+.about .content{
+  width: 40%;
+  margin-top: 20px;
+}
+.about .content h1{
+  margin-bottom: 20px;
+  padding-top: 95px;
+}
+
+.call-to-action{
+  color: #fff;
+}
+.cta-btn{
+  border: 1px solid #bc0410;
+  color: #bc0410;
+}
+
+/* footer */
+.contact{
+  cursor: pointer;
+}
+
+/* template.js */
+/* .container, */
+.templateBox{
+  background-color: #f19ff629;
+}
+.templateBox .container h1{
+  font-weight: bold;
+  padding-top: 100px;
+}
+.container .row .col-lg-8 h1{                           /*logistic.js*/
+  font-weight: bold;
+  padding-top: 10px;
+}
+.templates{
+  margin-top: 80px;
+}
+.card{
+  margin: 50px 0px;
+  display: block;
+  text-align: center;
+}
+.card img{
+  width: 33.3%;
+}
+
+/* review.js */
+.review{
+  margin: 20px 0px;
+}
+.review-container{
+  padding: 80px 0px;
+  background-color: #bfe1ed;
+}
+.rating{
+  color: #fff;
+  font-size: 70px;
+  font-weight: bold;
+}
+.rating-text{
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+}
+.text-center{
+  height: 170px;
+  border-radius: 5px;
+}
+.containerr{
+  max-width: 1280px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+.col-4,
+.col-md-6{
+  border-radius: 10px;
+}
+.review .col-md-6{
+  width: 48%;
+  margin-left: auto;
+}
+.col-4{
+  width: 32%;
+  margin-left: auto;
+}
+.review-container .review .text{
+  background-color: #77067794;
+  height: auto;
+}
+
+/* Newlearning.js */
+
+.learningBox img{
+  width: 800px;
+  height: 540px;
+}
+.learning{
+  background-color: #d5d0f3;
+}
+.learning .container h1{
+  font-weight: bold;
+  font-size: 50px;
+}
+.transport .container,
+.learning .container{
+  padding-top: 100px;
+  padding-bottom: 50px;
+
+}
+.learning .card i{
+  text-align: left;
+  font-size: 40px;
+  font-weight: bold;
+}
+.learning .card{
+  width: 500px;
+  height: 190px;
+  padding: 30px 20px;
+}
+.learning .card:hover{
+  box-shadow: 0px 0px 20px 0px black;
+}
+
+/* transport.js */
+.transport{
+  background-color: #c5f1c59e;
+}
+.transport .blockCell{
+  display: block;
+  align-items: flex-start;
+  margin-top: 20px;
+}
+.transport .containBox{
+  padding-left: 100px;
+}
+.transport .containBox img:hover{
+  box-shadow: 0px 0px 20px 0px black;
+}
